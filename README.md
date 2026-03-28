@@ -57,8 +57,8 @@ Alongside building, I teach programming through my platform ***Surgeon of Code**
 
 [![YouTube](https://img.shields.io/badge/Surgeon_of_Code-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Knt-D-Code)
 
-I create programming content that makes complex ideas intuitive.  
-Focused on clarity, structure, and helping beginners truly understand systems.
+KNT D. CODE here. I break down the world of coding, computers, and technology through the lens of storytelling and anime analogies:
+**Turning complex tech ideas into something anyone can understand.**
 
 ##
 
@@ -73,14 +73,6 @@ Full-stack system simulating real-world restaurant operations with role-based wo
 ### Landmark Learning App (C++, Qt)  
 Interactive desktop application designed to improve STEM learning engagement through structured UI and quizzes.
 
----
-
-## 📍 Surgeon of Code 
-
-[![YouTube](https://img.shields.io/badge/Surgeon_of_Code-YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@Knt-D-Code)
-
-I create programming content that makes complex ideas intuitive.  
-Focused on clarity, structure, and helping beginners truly understand systems.
 
 ---
 
