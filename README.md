@@ -9,7 +9,7 @@
 
 ## 🕸️ About Me
 
-Hi, I’m Oumar, CS + Applied Math @ Grove School of Engineering. I work across full-stack development and applied AI, with experience in designing interactive applications, simulations, and data-driven systems.  
+Hi, I’m Oumar, CS + Applied Math @ CCNY Grove School of Engineering. I work across full-stack development and applied AI, with experience in designing interactive applications, simulations, and data-driven systems.  
 
 Alongside building, I teach programming through my platform ***Surgeon of Code***, where I simplify complex concepts through structured, anime story-driven explanations.
 
