@@ -83,5 +83,5 @@ Interactive desktop application designed to improve STEM learning engagement thr
 ## 🪶 Links
 
 - Youtube: www.youtube.com/@Knt-D-Code 
-- Portfolio: https://oumarkanteportfolio.com  
+- Portfolio: https://oumarkanteportfolio.github.io  
 - LinkedIn: https://www.linkedin.com/in/oumar-kante-surgeon/  
